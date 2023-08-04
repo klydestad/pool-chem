@@ -36,4 +36,8 @@ if __name__ == "__main__":
 
     # Check if entries in column 'A' are within the range [min_val, max_val]
     df_result = check_range(df, 'Cl2', min_val, max_val)
-    
+
+
+    # Show the original column values next to True/False values
+    print(df_result[['Cl2', 'within_range']])
+
