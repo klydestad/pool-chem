@@ -16,3 +16,11 @@ if __name__ == "__main__":
     # Path of the dataset
     file_path = "Pool_Chem_Analysis.csv"
     data = load_csv(file_path)
+    
+    
+    
+                                (data_frame[column] * mult_val_neg)
+                        elif (data_frame[column] > 0):
+                            (data_frame[column] * mult_val_pos)
+                        else:
+                            (data_frame[column] * 0)
