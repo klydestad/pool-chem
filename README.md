@@ -1,4 +1,4 @@
-# Pool Chemistry Analyzer & Calculator
+# Pool Chemistry Analyser & Calculator
 
 OBJECTIVE:
 
