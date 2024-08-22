@@ -1,4 +1,4 @@
-# Pool Chemistry Analyser & Calculator
+# Pool Chemistry Diagnostic Tool
 
 OBJECTIVE:
 
